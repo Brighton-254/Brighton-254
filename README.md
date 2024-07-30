@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=LEN+MD+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=HANTAH-FARAH-CODE-SPACE" alt="">
 </p>
    
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Lenox.Were-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-HANTAH.FARAH-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
