@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">Hantah Farah </h1>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center"> Hantah Farah, A Simple WhatsApp user BOT, Created by Lenox Were.
+<p align="center"> Hantah Farah, A Simple WhatsApp user BOT, Created by Hantah@254.
 </p>
 <h1 align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
@@ -9,7 +9,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/lenodewere/Len-MD">
-    <img alt="Len-MD" height="250x300" src="C:\Users\Admin\Downloads\_b409800d-7cd0-4af6-b2ec-39e824aebcbc.jpg">
+    <img alt="HANTAH-FARAH" height="250x300" src="[b409800d-7cd0-4af6-b2ec-39e824aebcbc.jpg](https://copilot.microsoft.com/images/create/create-a-stylish-and-modern-logo-of-name-hantah-fa/1-665777ae3788477ba6a17539e2564eb3?id=Lf1jpE54C3%2byaVWeVPOwyg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4._tseDVg30Gy7ShYwz3la&skey=4vBiUHa3TJcV1jEJCXgwzZ2IfBRS0mDa461tdvaMoSg&FORM=SYDBIC)]">
   </a>
 </p>
 
