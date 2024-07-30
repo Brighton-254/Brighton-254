@@ -9,7 +9,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/lenodewere/Len-MD">
-    <img alt="Len-MD" height="250x300" src="https://telegra.ph/file/b2d04cc43245324a1f83f.jpg">
+    <img alt="Len-MD" height="250x300" src="C:\Users\Admin\Downloads\_b409800d-7cd0-4af6-b2ec-39e824aebcbc.jpg">
   </a>
 </p>
 
